@@ -1,5 +1,5 @@
 # IBMGAPM
-## Generative AI for Project Managers Specialization
+## Generative AI for Project Managers Specialization (3 course series)
 
 Generative AI knowledge is now an essential skill in project management. According to Business 2 Community, 93% of companies that invest in AI for project management report a positive return on investment. Additionally, generative AI can improve the success rate of projects by around 25%.
 
